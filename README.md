@@ -68,14 +68,12 @@ mypet/
 
 
 ## 📄 Лицензия
-Распространяется под лицензией **AGPL-3.0**. Подробнее см. [LICENSE](./LICENSE).
+Распространяется под лицензией **AGPL-3.0**. Подробнее см. [LICENSE](./LICENSE)
 
 ---
 
-<div align="center">
 Сделано с ❤️ от [FLIRSYS](https://github.com/flirsys)
-
 ⭐ Понравился проект? Поставь звёздочку!
-</div>
+
 Буду рад любой помощи!
-Если нашёл баг или есть идея — открывай [Issue](https://github.com/flirsys/mypet/issues)!
+Если нашёл баг или есть идея — открывай [Issue](https://github.com/flirsys/mypet/issues)
