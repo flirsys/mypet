@@ -6,7 +6,8 @@
    ```bash
    git clone https://github.com/flirsys/mypet
    ```
-2. Запусти Apache/Nginx сервер с PHP>=ver8
+2. Создать папку core/**db**/
+3. Запусти Apache/Nginx сервер с PHP>=ver8
 
 ---
 Создано с любовью FLIRSYS.
